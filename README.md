@@ -24,4 +24,4 @@ Boîte à médicaments intelligente rappelant les prises et détectant automatiq
 Le code Arduino sera ajouté prochainement.
 
 ## Tags / Topics
-Arduino • Système embarqué • Capteurs • Projet académique • AJST
+Arduino • Système embarqué • Capteurs • Projet professionnel • AJST
